@@ -10,9 +10,11 @@ img {
 
 .description { 
     background-color: aquamarine;  
-    margin: 5px     ;
+    /*
     border: 1px solid black;
     border-radius: 5px;
+    */
+    margin: 5px;
 }
 
 .album-name{ 
